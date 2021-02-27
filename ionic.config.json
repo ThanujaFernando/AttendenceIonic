@@ -1,0 +1,7 @@
+{
+  "name": "attendenceIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
